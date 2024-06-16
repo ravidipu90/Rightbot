@@ -1,0 +1,23 @@
+
+# Task1 : Rectangle Detection in Video Frames
+
+This script captures video from a webcam, detects nested rectangles in each frame, and displays the nesting levels. Press 'q' to exit the video window.
+
+## Usage
+
+To run the script, use the following command:
+
+```bash
+python task1.py
+```
+# Task2 : RingBuffer
+
+This Python script implements a basic producer-consumer model using threading and OpenCV. The producer captures frames from a webcam and stores them in a ring buffer, while the consumer retrieves and displays these frames. Adjust the buffer size and frame capture interval as needed.
+
+## Usage
+
+To run the script, use the following command:
+
+```bash
+python task2.py
+```
